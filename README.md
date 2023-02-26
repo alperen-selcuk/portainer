@@ -1,6 +1,6 @@
-# portainer
+# portainer install
 
-## portainer i docker üzerinde ayağa kaldırmak için öncelikle bir directory açalım ve dataları içinde tutalım daha sonra docker çalıştıralım
+portainer i docker üzerinde ayağa kaldırmak için öncelikle bir directory açalım ve dataları içinde tutalım daha sonra docker çalıştıralım
 
 ```
 mkdir portainer
